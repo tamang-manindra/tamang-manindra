@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Manindra%20Tamang&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descColor=8b949e"/>
 
 <p align="center">
-  <a href="https://github.com/munindra-ai">
+  <a href="https://github.com/tamang-manindra">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+JavaScript;AWS+%7C+Docker+%7C+Linux;Always+learning%2C+always+building." alt="Typing SVG" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=munindra-ai&label=Profile+views&color=58a6ff&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tamang-manindra&label=Profile+views&color=58a6ff&style=for-the-badge" alt="profile views" />
 </p>
 
 <br clear="right"/>
@@ -34,10 +34,10 @@
   <a href="https://linkedin.com/in/manindra-tamang-995390176" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/munindrakanxa" target="_blank">
+  <a href="https://www.youtube.com/@munindrakanxa5599" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://github.com/munindra-ai" target="_blank">
+  <a href="https://github.com/tamang-manindra" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -80,12 +80,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=munindra-ai&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munindra-ai&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamang-manindra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamang-manindra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=munindra-ai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamang-manindra&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ### Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=munindra-ai&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tamang-manindra&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@
 ### Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=munindra-ai&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&hide_border=true"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamang-manindra&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&hide_border=true"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
