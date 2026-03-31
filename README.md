@@ -80,20 +80,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamang-manindra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamang-manindra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
-</p>
-
-<p align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=tamang-manindra&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff"/>
-</p>
-
----
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamang-manindra&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </p>
 
 ---
