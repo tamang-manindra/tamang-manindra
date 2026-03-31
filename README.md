@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamang-manindra&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=tamang-manindra&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@
 ### Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamang-manindra&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tamang-manindra&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </p>
 
 ---
